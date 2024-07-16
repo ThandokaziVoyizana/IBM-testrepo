@@ -1,3 +1,8 @@
-# IBM-testrepo
-## Editing the file
-Its a markdown file in this repository.
+# Notebook Hands On Project IBM
+## Creating A Notebook and uploading the file to  Github
+
+In this section we learn we learn the following :
+
+Create a Jupyter Notebook
+Insert code and markdown cells
+Share the notebook through GitHub
